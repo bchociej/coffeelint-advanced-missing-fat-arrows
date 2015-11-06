@@ -1,0 +1,22 @@
+{
+  "name": "coffeelint-advanced-missing-fat-arrows",
+  "version": "1.0.0",
+  "description": "Warns when you use 'this' inside a function that wasn't defined with a fat arrow. Configurable by comment.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bchociej/coffeelint-advanced-missing-fat-arrows.git"
+  },
+  "keywords": [
+    "coffeelintrule",
+    "coffeelint",
+    "fat",
+    "arrows"
+  ],
+  "author": "Ben Chociej <ben@chociej.io>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/bchociej/coffeelint-advanced-missing-fat-arrows/issues"
+  },
+  "homepage": "https://github.com/bchociej/coffeelint-advanced-missing-fat-arrows#readme"
+}
